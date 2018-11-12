@@ -175,7 +175,7 @@ logisticAnalysis.runSimpleAnalysis(data)
 #multiple regression equation - y = b0 + b1x1 + b2x2 + … 
 
 
-#got stuck on this one ... 
+
 
     
 #######################################################
